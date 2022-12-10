@@ -1,0 +1,10 @@
+h1, p {
+  font-family: sans-serif;
+  display: inline;
+}
+th {
+  font-weight: normal;
+}
+body {
+  background-color: #ececec;
+}
